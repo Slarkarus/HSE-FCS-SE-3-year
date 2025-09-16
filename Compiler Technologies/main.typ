@@ -7,5 +7,6 @@
     title_fmt: "block",
 )
 
+#include "lection_00.typ"
 #include "lection_01.typ"
 
