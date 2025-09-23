@@ -8,4 +8,4 @@
 )
 
 #include "lection_01.typ"
-
+#include "lection_02.typ"
